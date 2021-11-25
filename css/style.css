@@ -1,0 +1,68 @@
+body{
+    font-family: "Times New Roman";
+    background-color: black;
+}
+#header h1{
+    color: black;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 15%;
+}
+#header h3{
+    text-align: center;
+    color: gray;
+    font-size: 1.5em;
+  	margin-bottom: 10%;
+    font-style: italic;
+}
+#header {
+   background-image: url("../images/hh.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Photography img{
+    padding :20px;
+    border-radius: 30px;
+    box-shadow: 10px 3px white;
+}
+#Photography {
+    margin-top: 0.5em;
+}
+#Photography h1{
+    text-shadow: 5px 5px 10px gray;
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
+#about{
+    margin-top: 1.5em;
+}
+#about h1{
+      text-shadow: 5px 5px 10px gray;
+    font-style: italic;
+    text-align: center;
+}
+#about img{
+    box-shadow: 20px 10px  10px gray;
+    border-radius: 40px;
+}
+#contact h1{
+    text-shadow: 5px 5px 10px gray;
+    font-style: italic;
+    color: white;
+    text-align: center;
+    margin-top: 1em;
+}
+#form{
+      background-image: url("../images/contactPhoto.jfif");
+      opacity: 0.8;
+}
+#OurContact{
+   margin: 5em;
+    }
+#footer{
+    margin-top: 1em;
+    text-align: center;
+    font-size: 1.5em;
+}
